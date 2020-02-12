@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\Nr_15\Nr_15\bin\Debug\netcoreapp3.1\Nr_15.exe
+C:\Users\Én\source\repos\Nr_15\Nr_15\bin\Debug\netcoreapp3.1\Nr_15.deps.json
+C:\Users\Én\source\repos\Nr_15\Nr_15\bin\Debug\netcoreapp3.1\Nr_15.runtimeconfig.json
+C:\Users\Én\source\repos\Nr_15\Nr_15\bin\Debug\netcoreapp3.1\Nr_15.runtimeconfig.dev.json
+C:\Users\Én\source\repos\Nr_15\Nr_15\bin\Debug\netcoreapp3.1\Nr_15.dll
+C:\Users\Én\source\repos\Nr_15\Nr_15\bin\Debug\netcoreapp3.1\Nr_15.pdb
+C:\Users\Én\source\repos\Nr_15\Nr_15\obj\Debug\netcoreapp3.1\Nr_15.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\Nr_15\Nr_15\obj\Debug\netcoreapp3.1\Nr_15.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\Nr_15\Nr_15\obj\Debug\netcoreapp3.1\Nr_15.AssemblyInfo.cs
+C:\Users\Én\source\repos\Nr_15\Nr_15\obj\Debug\netcoreapp3.1\Nr_15.dll
+C:\Users\Én\source\repos\Nr_15\Nr_15\obj\Debug\netcoreapp3.1\Nr_15.pdb

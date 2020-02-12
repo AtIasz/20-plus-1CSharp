@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\Nr_16\Nr_16\bin\Debug\netcoreapp3.1\Nr_16.exe
+C:\Users\Én\source\repos\Nr_16\Nr_16\bin\Debug\netcoreapp3.1\Nr_16.deps.json
+C:\Users\Én\source\repos\Nr_16\Nr_16\bin\Debug\netcoreapp3.1\Nr_16.runtimeconfig.json
+C:\Users\Én\source\repos\Nr_16\Nr_16\bin\Debug\netcoreapp3.1\Nr_16.runtimeconfig.dev.json
+C:\Users\Én\source\repos\Nr_16\Nr_16\bin\Debug\netcoreapp3.1\Nr_16.dll
+C:\Users\Én\source\repos\Nr_16\Nr_16\bin\Debug\netcoreapp3.1\Nr_16.pdb
+C:\Users\Én\source\repos\Nr_16\Nr_16\obj\Debug\netcoreapp3.1\Nr_16.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\Nr_16\Nr_16\obj\Debug\netcoreapp3.1\Nr_16.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\Nr_16\Nr_16\obj\Debug\netcoreapp3.1\Nr_16.AssemblyInfo.cs
+C:\Users\Én\source\repos\Nr_16\Nr_16\obj\Debug\netcoreapp3.1\Nr_16.dll
+C:\Users\Én\source\repos\Nr_16\Nr_16\obj\Debug\netcoreapp3.1\Nr_16.pdb

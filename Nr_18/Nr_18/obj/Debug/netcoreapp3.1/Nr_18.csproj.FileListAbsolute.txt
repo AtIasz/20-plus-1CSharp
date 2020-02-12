@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\bin\Debug\netcoreapp3.1\Nr_18.exe
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\bin\Debug\netcoreapp3.1\Nr_18.deps.json
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\bin\Debug\netcoreapp3.1\Nr_18.runtimeconfig.json
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\bin\Debug\netcoreapp3.1\Nr_18.runtimeconfig.dev.json
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\bin\Debug\netcoreapp3.1\Nr_18.dll
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\bin\Debug\netcoreapp3.1\Nr_18.pdb
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\obj\Debug\netcoreapp3.1\Nr_18.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\obj\Debug\netcoreapp3.1\Nr_18.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\obj\Debug\netcoreapp3.1\Nr_18.AssemblyInfo.cs
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\obj\Debug\netcoreapp3.1\Nr_18.dll
+C:\Users\Én\source\repos\20+1 ex\Nr_18\Nr_18\obj\Debug\netcoreapp3.1\Nr_18.pdb
