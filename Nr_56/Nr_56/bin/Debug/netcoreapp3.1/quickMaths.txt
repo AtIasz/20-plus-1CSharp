@@ -1,0 +1,12 @@
+System.String[]
+System.String[]
+System.String[]
+System.String[]
+2+3=5
+2-3=-1
+System.String[]
+System.String[]
+2+3=5
+2-3=-1
+2*3=6
+2/3=0,6666667
