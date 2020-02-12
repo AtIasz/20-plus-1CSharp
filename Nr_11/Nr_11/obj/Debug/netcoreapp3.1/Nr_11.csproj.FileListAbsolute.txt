@@ -1,0 +1,11 @@
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\bin\Debug\netcoreapp3.1\Nr_11.exe
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\bin\Debug\netcoreapp3.1\Nr_11.deps.json
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\bin\Debug\netcoreapp3.1\Nr_11.runtimeconfig.json
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\bin\Debug\netcoreapp3.1\Nr_11.runtimeconfig.dev.json
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\bin\Debug\netcoreapp3.1\Nr_11.dll
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\bin\Debug\netcoreapp3.1\Nr_11.pdb
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\obj\Debug\netcoreapp3.1\Nr_11.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\obj\Debug\netcoreapp3.1\Nr_11.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\obj\Debug\netcoreapp3.1\Nr_11.AssemblyInfo.cs
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\obj\Debug\netcoreapp3.1\Nr_11.dll
+C:\Users\Én\source\repos\20+1 ex\Nr_11\Nr_11\obj\Debug\netcoreapp3.1\Nr_11.pdb
